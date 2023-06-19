@@ -11,4 +11,5 @@ public:
     int xLocation;
     int yLocation;
     bool visited;
+    Box* prev;
 };

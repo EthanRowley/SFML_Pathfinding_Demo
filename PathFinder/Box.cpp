@@ -12,5 +12,6 @@
     this->xLocation = NULL;
     this->yLocation = NULL;
     this->visited = false;
+    this->prev = NULL;
     
  }
